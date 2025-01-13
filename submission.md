@@ -1,1 +1,1 @@
-[My cool image of ML](./Week1_Part1.webp)
+![My cool image of ML](./Image.webp)
